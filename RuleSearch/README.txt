@@ -1,0 +1,1 @@
+This is the Latest Rule Validator version, Updated on June 21th 2019.
